@@ -1,0 +1,13 @@
+azure-functions
+azure-storage-queue
+python-dotenv
+beautifulsoup4
+pyodbc
+requests
+langchain
+langchain-openai
+openai
+twilio
+aiohttp
+tenacity
+translate
